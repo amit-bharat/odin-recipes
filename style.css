@@ -1,0 +1,28 @@
+/* style for index */
+*{
+    background-color: #f5eec2;
+    font-family: "Playwrite PL", cursive;
+    color:#39395f;
+}
+h1{
+    font-size: 56px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+div p{
+    margin-top:1px;
+    font-weight: 600px;
+    font-size:20px
+}
+
+div{
+    width: 48%;
+    text-align: center;
+    display: inline-block;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 20%;
+}
